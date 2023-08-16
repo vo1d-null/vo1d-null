@@ -30,6 +30,6 @@
 
 
 <div>
-  <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=vo1d-null&show_icons=true&theme=dracula&background=490F92FF" alt="vo1d-null's GitHub stats" /> </p>
+  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=vo1d-null&show_icons=true&theme=dracula&background=490F92FF" alt="vo1d-null's GitHub stats" /> </p>
   <p align="center"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vo1d-null&theme=dracula&background=#490F92FF" alt="GitHub Streak" /> </p>
 </div>
