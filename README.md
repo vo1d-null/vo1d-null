@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=46&pause=1000&color=6114C0&center=true&vCenter=true&width=435&lines=%EF%BC%88%E2%9C%98%E0%B7%B4%E2%9C%98%EF%BC%89" alt="Typing SVG" /></a>
 </div>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=46&pause=1000&color=7D1AF7&center=true&vCenter=true&width=435&lines=I+am+vo1d.null;Also+known+as+;Nikolay+Gerginov;Mortality+is+weakness;Oblivion+awaits" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=46&pause=1000&color=B60000FF&center=true&vCenter=true&width=435&lines=I+am+vo1d.null;Also+known+as+;Nikolay+Gerginov;Mortality+is+weakness;Oblivion+awaits" alt="Typing SVG" /></a>
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=46&pause=1000&color=6114C0&center=true&vCenter=true&width=435&lines=%EF%BC%88%E2%9C%98%E0%B7%B4%E2%9C%98%EF%BC%89" alt="Typing SVG" /></a>
