@@ -23,7 +23,7 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=46&pause=1000&color=B60000FF&center=true&vCenter=true&width=435&lines=Featured+Projects" alt="Typing SVG" /></a></div>
 
 <p align="center">
-     <a href="https://github.com/vo1d-null/vo1d"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vo1d-null&repo=vo1d&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/vo1d-null/v"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vo1d-null&repo=v&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/vo1d-null/CryptoTracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vo1d-null&repo=CryptoTracker&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/vo1d-null/SnakeGame"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vo1d-null&repo=SnakeGame&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
