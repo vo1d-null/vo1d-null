@@ -23,21 +23,23 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=46&pause=1000&color=B60000FF&center=true&vCenter=true&width=435&lines=Featured+Projects" alt="Typing SVG" /></a></div>
 
 <p align="center">
-     <a href="https://github.com/vo1d-null/v"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vo1d-null&repo=v&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/vo1d-null/CryptoTracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vo1d-null&repo=CryptoTracker&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/vo1d-null/SnakeGame"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vo1d-null&repo=SnakeGame&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/vo1d-null/v"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vo1d-null&repo=v&theme=midnight-purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/vo1d-null/CryptoTracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vo1d-null&repo=CryptoTracker&theme=midnight-purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/vo1d-null/SnakeGame"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vo1d-null&repo=SnakeGame&theme=midnight-purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
 <p align="center">_______________________________________________________________________________________________________________________________</p>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=46&pause=1000&color=B60000FF&center=true&vCenter=true&width=435&lines=Stats" alt="Typing SVG" /></a></div>
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=vo1d-null&label=%20vo1d%20watchers&color=7a0eb4&style=flat-square" alt="vo1d-null" /> </p>
-  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vo1d-null&show_icons=true&theme=dracula&background=490F92FF&locale=en&layout=compact" alt="vo1d-null" /> </p>
+<p align="center">
+  <img align="center" src="https://visitcount.itsvg.in/api?id=vo1d-null&label=Void%20Watchers&color=12&icon=5&pretty=true" />
+</p>
+  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vo1d-null&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="vo1d-null" /> </p>
   
 <div>
-  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=vo1d-null&show_icons=true&theme=dracula&background=490F92FF" alt="vo1d-null's GitHub stats" /> </p>
-  <p align="center"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vo1d-null&theme=dracula&background=#490F92FF" alt="GitHub Streak" /> </p>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=vo1d-null&theme=dracula&background=490F92FF&row=1" alt="vo1d-null" /></a></p>
+  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=vo1d-null&show_icons=true&theme=midnight-purple&hide_border=true" alt="vo1d-null's GitHub stats" /> </p>
+  <p align="center"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vo1d-null&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=vo1d-null&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="vo1d-null" /></a></p>
 </div>
 <img src="https://raw.githubusercontent.com/vo1d-null/vo1d-null/output/snake.svg" alt="Snake animation" />
 
