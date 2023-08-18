@@ -41,6 +41,6 @@
   <p align="center"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vo1d-null&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /> </p>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=vo1d-null&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="vo1d-null" /></a></p>
 </div>
-<img src="https://raw.githubusercontent.com/vo1d-null/vo1d-null/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vo1d-null/vo1d-null/output/github-contribution-grid-snake-dark.svg" alt="Voidling animation" />
 
 ###
