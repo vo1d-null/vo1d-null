@@ -25,7 +25,7 @@
 <p align="center">
      <a href="https://github.com/vo1d-null/v"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vo1d-null&repo=v&theme=midnight-purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/vo1d-null/CryptoTracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vo1d-null&repo=CryptoTracker&theme=midnight-purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/vo1d-null/SnakeGame"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vo1d-null&repo=SnakeGame&theme=midnight-purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/vo1d-null/Random-Recipe-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vo1d-null&repo=Random-Recipe-Generator&theme=midnight-purple&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
 <p align="center">_______________________________________________________________________________________________________________________________</p>
